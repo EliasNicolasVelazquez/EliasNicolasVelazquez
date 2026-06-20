@@ -1,6 +1,8 @@
 # 👋 ¡Hola! Soy Elias Velázquez
 💻 Desarrollador apasionado por la programación y la tecnología, enfocado en crear soluciones modernas, eficientes y escalables.
 <br>
+⭐ Siempre abierto a colaborar en proyectos interesantes.
+<br>
 <h1 width: 200px>⚡ Technologies</h1>
 <h2>Estas son algunas de las tecnologías y herramientas que utilizo en mis proyectos..</h2>
 <div >
@@ -47,7 +49,7 @@ Seguir desarrollándome como programador Full Stack, participando en proyectos i
 https://linkedin.com/in/elias-velazquez-245127376/
 
 ---
-⭐ Siempre abierto a colaborar en proyectos interesantes.
+
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 <!--
