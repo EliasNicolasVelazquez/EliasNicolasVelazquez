@@ -19,6 +19,8 @@
 <img src="https://camo.githubusercontent.com/b8ae82ffde62bb5ad395fce80cab7d09428adac59817744147b54a742ce3c6e2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5653436f64652d3030374143433f7374796c653d666c61742d737175617265266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"/>
 
 </div>
+<img align="right" alt="Coding" width="400" src="https://media2.dev.to/dynamic/image/width=800%2Cheight=%2Cfit=scale-down%2Cgravity=auto%2Cformat=auto/https%3A%2F%2Fmedia1.tenor.com%2Fimages%2F0c34272909ee2a4db5606a014082312b%2Ftenor.gif%3Fitemid%3D15828752">
+<br>
 
 
 
